@@ -9,6 +9,7 @@ I specialize in system troubleshooting, identity and access management, and clou
 
 ---
 
+
 ## Projects
 
 
@@ -19,6 +20,7 @@ I specialize in system troubleshooting, identity and access management, and clou
 - Hosted a publicly accessible webpage
 
 ---
+
 
 ### Contact
 
