@@ -19,6 +19,12 @@ I specialize in system troubleshooting, identity and access management, and clou
 - Configured networking and access via security groups
 - Hosted a publicly accessible webpage
 
+### AWS Cloud Project (EC2 + S3)
+
+- Deployed a live web server on EC2
+- Integrated S3 for static content hosting
+- Configured access controls and resolved permission issues
+
 ---
 
 
