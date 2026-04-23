@@ -11,7 +11,7 @@ I specialize in system troubleshooting, identity and access management, and clou
 ## Projects
 ---
 
-##AWS Cloud Infrastructure (In Progress)
+AWS Cloud Infrastructure (In Progress)
 ---
 
 Deploying EC2 instance and hosting a web application
