@@ -11,14 +11,11 @@ I specialize in system troubleshooting, identity and access management, and clou
 ## Projects
 ---
 
-AWS Cloud Infrastructure (In Progress)
----
+## AWS Cloud Project (EC2 Web Server)
 
-Deploying EC2 instance and hosting a web application
-Configuring IAM roles, security groups, and S3 storage
-Documenting architecture and cloud setup in GitHub
-
-More projects coming soon as I build DevOps and automation experience
+Deployed and configured a live web server on AWS
+Configured networking and access via security groups
+Hosted a publicly accessible webpage
 
 ---
 
