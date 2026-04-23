@@ -4,8 +4,7 @@ title: Home
 ---
 
 ## About Me
-IT Support Technician transitioning into Cloud Operations.  
-Focused on AWS, troubleshooting, and system administration.
+I specialize in system troubleshooting, identity and access management, and cloud infrastructure fundamentals. I am actively building hands-on AWS and DevOps projects to transition into cloud engineering roles.
 
 ---
 
