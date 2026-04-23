@@ -25,6 +25,12 @@ I specialize in system troubleshooting, identity and access management, and clou
 - Integrated S3 for static content hosting
 - Configured access controls and resolved permission issues
 
+### Docker Implementation
+
+- Created Docker container using Nginx
+- Containerized static web application
+- Deployed container on AWS EC2 instance
+
 ---
 
 
